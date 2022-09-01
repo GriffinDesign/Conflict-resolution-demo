@@ -1,5 +1,5 @@
 # Conflict-resolution-demo
 
-## This is my awesome sub-header. 
+## Evil Colin's sub-header
 
-### And so on...
+### Enjoy the merge conflicts >:)
